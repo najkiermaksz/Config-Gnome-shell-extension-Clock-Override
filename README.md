@@ -11,7 +11,7 @@ If stuck and need to remove extension from Terminal before login:
 
 1. Press Ctrl + Alt + F5
 2. Go to /.local/share/gnome-shell/extensions
-3. sudo rm -R <extension folder>
+3. sudo rm -R "extension folder"
 
 
 Date/Time Format Codes
